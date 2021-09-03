@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @digipen-wyvern
+- I'm a DigiPen student and that's all this account is for :)
+- I hope my code doesn't totally blow (fire) :(
